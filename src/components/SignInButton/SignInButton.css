@@ -1,0 +1,14 @@
+.signin-button {
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.signin-button:hover {
+  background-color: #357ae8;
+}
